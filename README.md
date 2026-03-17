@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Aidan 👋
+Researching low level computer security as a hobby
 
-<!--
-**aileung/aileung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Repositories
+** [injector](https://github.com/aileung/injector)** - cross platform injection tool for debugging and learning different operating systems
 
-Here are some ideas to get you started:
+## Future Projects
+** memory-abstraction-layer ** - wrap raw memory operations into clean functions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+** pattern-scanner ** - scans game memory for byte signatures to dynamically find offsets
+** offset-dumper **  - standalone exe that launches, reads netvars/patterns and writes them to a file
+
+** netvar-manager ** - walks a table of offsets and caches needed offsets
+** process-memory-viewer ** - standalone cli that attaches and inspects memory live to verify sdk structs
+
+** sdk ** - uses netvars+pattern scans to define game classes
+** csgo-trainer ** - final goal
